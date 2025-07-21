@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Bogotá D.C.",
+        "precio": 50000.0,
+        "description": "Vista en color verdadero de Bogotá, Colombia",
+        "imagen": "bogota.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Ciénaga Grande de Santa Marta",
+        "precio": 30000.0,
+        "description": "Vista en color verdadero de la Ciénaga Grande de Santa Marta",
+        "imagen": "cienagaGrande.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Medellín",
+        "precio": 70000.0,
+        "description": "Vista en color verdadero de Medellín, Colombia",
+        "imagen": "medellin.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Punta Gallinas",
+        "precio": 100000.0,
+        "description": "Vista en color verdadero de Punta Gallinas, La Guajira",
+        "imagen": "puntaGallinas.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Sierra Nevada DEM",
+        "description": "Modelo Digital de Elevación Sierra Nevada de Santa Marta",
+        "precio": 47000.0,
+        "imagen": "sierraNevadaDEM.jpg"
+    }
+]
