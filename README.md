@@ -4,6 +4,10 @@ Geopixelis es una aplicación web desarrollada con Flask que permite mostrar y v
 
 ---
 
+## Vista previa de la página principal
+
+![Vista de index](https://raw.githubusercontent.com/mpatino97/Geopixelis/main/static/vistaIndex.jpg)
+
 ## Estructura general del proyecto
 
 ### `app.py`
